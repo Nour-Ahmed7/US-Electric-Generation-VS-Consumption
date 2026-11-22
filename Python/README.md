@@ -84,3 +84,8 @@ Tested with:
 Install dependencies via pip:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+
+---
+
+### note: before running the code make sure to contain both the data and this file in the same folder.
+
